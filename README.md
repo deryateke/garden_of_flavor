@@ -24,6 +24,8 @@ A modern and responsive restaurant web application built with HTML, CSS, JavaScr
 - JSON Server (db.json as mock API)
 
 ## 📁 Project Structure
+
+```
 garden_of_flavor/
 ├── assets/
 ├── js/
@@ -35,3 +37,4 @@ garden_of_flavor/
 ├── style.css
 ├── db.json
 └── README.md
+```
