@@ -2,7 +2,7 @@
 
 A modern and responsive restaurant web application built with HTML, CSS, JavaScript, and Bootstrap. Browse the menu, filter by category, and view detailed product pages.
 
-## ✨ Features
+##  Features
 
 - 🍽️ Dynamic menu rendering from a local JSON API
 - 🔍 Category filtering (All, Breakfast, Lunch, Shakes)
@@ -14,7 +14,7 @@ A modern and responsive restaurant web application built with HTML, CSS, JavaScr
 - 📝 Contact form with address, email and phone info
 - 🦶 Footer with quick links and social media icons
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
