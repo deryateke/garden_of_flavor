@@ -38,4 +38,6 @@ garden_of_flavor/
 ├── db.json
 └── README.md
 ```
+
+## 🎬 Preview
 ![Garden Of Flavor Preview](garden_of_flavor.gif)
