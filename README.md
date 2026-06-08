@@ -38,3 +38,4 @@ garden_of_flavor/
 ├── db.json
 └── README.md
 ```
+![Garden Of Flavor Preview](garden_of_flavor.gif)
